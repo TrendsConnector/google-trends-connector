@@ -97,9 +97,9 @@ Claude, ChatGPT, Cursor, VS Code, Claude Code, Grok, Muse, Perplexity, Gemini, C
 
 ## Related connectors
 
-- [Google Shopping connector](https://trendsconnector.com/google-shopping-connector?utm_source=github&utm_medium=readme&utm_campaign=google-trends-connector): Google Shopping connector for shopping search volume on a product or category, on the same scale as the other sources.
+- [Google Shopping connector](https://github.com/trendsconnector/google-shopping-connector): Google Shopping connector for shopping search volume on a product or category, on the same scale as the other sources.
 - [YouTube connector](https://github.com/trendsconnector/youtube-connector): YouTube connector for search volume over time, and for the videos trending on YouTube right now.
-- [News connector](https://trendsconnector.com/news-connector?utm_source=github&utm_medium=readme&utm_campaign=google-trends-connector): News connector for article volume, positive or negative sentiment, and the top Google News stories.
+- [News connector](https://github.com/trendsconnector/news-connector): News connector for article volume, positive or negative sentiment, and the top Google News stories.
 - [All 20 connectors in one](https://github.com/trendsconnector/claude-trends-connector)
 
 If this connector saves you time, star the repo so other marketers, SEO and content teams can find it.
